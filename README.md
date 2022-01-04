@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Web Development
 - 🌱 I’m currently learning ...Git, Github, Javascript
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with ...HTML,CSS,JS
+- 💬 Ask me about ...Tarantula's
 - 📫 How to reach me: ... Just gmail.com @ "my name"
 - 😄 Pronouns: ... Her/She
 - ⚡ Fun fact: ... I collect Tarantuala's! 
